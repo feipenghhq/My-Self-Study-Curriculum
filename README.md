@@ -13,7 +13,7 @@ Recording all the classes that I have learned or interested in this repo.
 
 ### Computer Architecture
 
-- [ ] [CS61C - Great Ideas in Computer Architecture (Machine Structures), Summer 2020 - UC Berkeley](https://cs61c.org/su20/) `09/12/2020 - `
+- [x] [CS61C - Great Ideas in Computer Architecture (Machine Structures), Summer 2020 - UC Berkeley](https://cs61c.org/su20/) `09/12/2020 - 10/21/2020`
 - [ ] [Coursera - Computer Architecture - Princeton Universidy](https://www.coursera.org/learn/comparch)
 
 ### Operating System
