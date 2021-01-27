@@ -24,9 +24,13 @@ Recording all the classes that I have learned or interested in this repo.
 
 - [ ] [CS188 - Intro to AI - UC Berkeley](http://ai.berkeley.edu/home.html)
 
-### Other Topic
+### Programming Language and their application
 
 - [ ] [Coursera - Scala Specialization - EPFL](https://www.coursera.org/specializations/scala?) `12/15/2020 - `
+  - [ ] [Course 1 - Functional Programming Principles in Scala] `12/15/2020 - 01/25/2021
+  - [ ] [Course 2 - Functional Program Design in Scala] `01/26/2021 - `
+
+- [ ] [Coursera - Programming Languages, Part A - University of Washington] `01/26/2021 - `
 
 ## Electrical Engineering
 
