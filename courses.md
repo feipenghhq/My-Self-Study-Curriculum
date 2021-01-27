@@ -27,10 +27,10 @@ Recording all the classes that I have learned or interested in this repo.
 ### Programming Language and their application
 
 - [ ] [Coursera - Scala Specialization - EPFL](https://www.coursera.org/specializations/scala?) `12/15/2020 - `
-  - [ ] [Course 1 - Functional Programming Principles in Scala] `12/15/2020 - 01/25/2021
-  - [ ] [Course 2 - Functional Program Design in Scala] `01/26/2021 - `
+  - [x] [Course 1 - Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) `12/15/2020 - 01/25/2021`
+  - [ ] [Course 2 - Functional Program Design in Scala](https://www.coursera.org/learn/progfun2) `01/26/2021 - `
 
-- [ ] [Coursera - Programming Languages, Part A - University of Washington] `01/26/2021 - `
+- [ ] [Coursera - Programming Languages, Part A - University of Washington](https://www.coursera.org/learn/programming-languages) `01/26/2021 - `
 
 ## Electrical Engineering
 
