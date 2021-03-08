@@ -29,7 +29,7 @@ Recording all the classes that I have learned or interested in this repo.
 - [ ] [Coursera - Scala Specialization - EPFL](https://www.coursera.org/specializations/scala?) `12/15/2020 - `
   - [x] [Course 1 - Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) `12/15/2020 - 01/25/2021`
   - [x] [Course 2 - Functional Program Design in Scala](https://www.coursera.org/learn/progfun2) `01/26/2021 - 02/10/2021`
-  - [ ] [Course 3 - Parallel programming](https://www.coursera.org/learn/parprog1) `02/10/2021 - `
+  - [ ] [Course 3 - Parallel programming](https://www.coursera.org/learn/parprog1) `02/10/2021 - 02/23/2021(Partially)`
 
 - [ ] [Coursera - Programming Languages, Part A - University of Washington](https://www.coursera.org/learn/programming-languages) `01/26/2021 - `
 
